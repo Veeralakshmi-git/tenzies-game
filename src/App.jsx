@@ -95,6 +95,7 @@ function App() {
       setSeconds(0);
       setStart(false);
       setTenzies(false);
+      setRoll(0);
       setDie(allNewDice());
       return;
     } else {
